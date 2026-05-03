@@ -116,7 +116,7 @@ The goal is simple:
 
 <p>
   <a href="mailto:y.v.v.group@gmail.com">Mail</a> ·
-  <a href="https://x.com/YOUR_USERNAME">X / Twitter</a> ·
+  <a href="https://x.com/yyunyk">X / Twitter</a> ·
   <a href="https://yvvstudio.com">YVV Studio</a>
 </p>
 
