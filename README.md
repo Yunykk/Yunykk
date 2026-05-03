@@ -50,14 +50,14 @@ Right now I’m doing a public challenge:
   </tr>
   <tr>
     <td width="50%">
-      <h3>Kern / Time</h3>
+      <h3>Kern</h3>
       <p>A desktop command center for time, focus, goals, and reality checks.</p>
       <a href="#">Coming soon →</a>
     </td>
     <td width="50%">
-      <h3>YVV Studio</h3>
-      <p>Product, interface, and web work focused on results.</p>
-      <a href="https://yvvstudio.com">Visit studio →</a>
+      <h3>Time2</h3>
+      <p>Just count the hours to see where they go, don't live on autopilot</p>
+      <a href="https://time2-drab.vercel.app/">Try MVP →</a>
     </td>
   </tr>
 </table>
