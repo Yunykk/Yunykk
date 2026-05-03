@@ -112,22 +112,6 @@ The goal is simple:
 
 ---
 
-## Featured work
-
-### Inboxless
-Cold outreach and lead management without heavy CRM complexity.
-
-### Schulportal UI Concept
-A redesign concept for a clearer school portal experience based on real student pain points.
-
-### JustGo
-A swipe-based decision tool for choosing places to visit.
-
-### Kern
-A personal operating system for time, focus, goals, and honest progress.
-
----
-
 ## Contact
 
 <p>
