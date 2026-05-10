@@ -5,7 +5,7 @@
 <br />
 
 <p>
-  <a href="https://x.com/YOUR_USERNAME">
+  <a href="https://x.com/yyunyk">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://yvvstudio.com">
