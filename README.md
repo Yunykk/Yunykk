@@ -20,47 +20,9 @@
 
 ---
 
-## Hey, I’m Vadym
-
-I’m a 17 y/o builder based in Germany.
+## I’m Vadym
 
 I build small useful products, web apps, automation tools, and experiments around productivity, outreach, focus, and decision-making.
-
-Right now I’m doing a public challenge:
-
-> **52 weeks. 52 public launches.**  
-> Not 52 startups. Just 52 shipped things.
-
----
-
-## Current focus
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Inboxless</h3>
-      <p>Cold outreach and lead management cut down to the signal.</p>
-      <a href="https://inboxless.yvvstudio.com">Open product →</a>
-    </td>
-    <td width="50%">
-      <h3>JustGo</h3>
-      <p>A fast way to decide where to go today.</p>
-      <a href="#">Coming soon →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Kern</h3>
-      <p>A desktop command center for time, focus, goals, and reality checks.</p>
-      <a href="#">Coming soon →</a>
-    </td>
-    <td width="50%">
-      <h3>Time2</h3>
-      <p>Just count the hours to see where they go, don't live on autopilot</p>
-      <a href="https://time2-drab.vercel.app/">Try MVP →</a>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -89,44 +51,17 @@ Right now I’m doing a public challenge:
 
 ---
 
-## 52 weeks / 52 launches
-
-This is my public shipping challenge.
-
-Every week I ship something useful:
-
-- a small product
-- a feature
-- a redesign
-- an open-source snippet
-- a landing page
-- a tool
-- a case study
-- an experiment
-
-The goal is simple:
-
-> Build faster.  
-> Show more.  
-> Learn what people actually want.
-
----
-
 ## Contact
 
 <p>
-  <a href="mailto:y.v.v.group@gmail.com">Mail</a> ·
-  <a href="https://x.com/yyunyk">X / Twitter</a> ·
+  <a href="mailto:contact@yvvstudio.com">Mail</a> ·
+  <a href="https://t.me/yunnnyk">Telegram</a> ·
   <a href="https://yvvstudio.com">YVV Studio</a>
 </p>
 
 ---
 
 <div align="center">
-
-<b>Building in public. Shipping weekly.</b>
-
-<br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1f6feb&height=120&section=footer" />
 
