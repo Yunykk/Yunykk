@@ -1,68 +1,34 @@
-<div align="center">
+# hey, i'm Vadym.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=900&color=111111&center=true&vCenter=true&width=900&lines=Building+products+in+public.;52+weeks.+52+public+launches.;From+coder+to+entrepreneur." alt="Typing SVG" />
+I keep turning small annoyances into apps. Right now I'm building Kitto, a player for the music files I actually keep.
 
-<br />
+![A copper waveform connecting three stops](docs/readme/signal.svg)
 
-<p>
-  <a href="https://x.com/yyunyk">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://yvvstudio.com">
-    <img src="https://img.shields.io/badge/YVV_Studio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:y.v.v.group@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## Start here
 
-</div>
+### Kitto
 
----
+A local music player for Windows, Linux, and Android. Bring your own files, build a queue, and make the player look and sound the way you want.
 
-## I’m Vadym
+[See Kitto](https://github.com/Yunykk/Kitto) · [Download Kitto](https://github.com/Yunykk/Kitto/releases/latest)
 
-I build small useful products, web apps, automation tools, and experiments around productivity, outreach, focus, and decision-making.
+### Nerve
 
----
+Goals, projects, and a focus timer that actually know about each other. Runs in the browser and keeps its history there.
 
-## What I build
+[Try Nerve](https://yunykk.github.io/Nerve/) · [Read the source](https://github.com/Yunykk/Nerve)
 
-- SaaS products
-- Web apps
-- UI/UX concepts
-- Automation tools
-- Micro-products
-- Public experiments
-- Tools I actually use myself
+### WorkCount
 
----
+An Android shift timer with a journal for paid hours and estimated earnings. Your shifts stay on your phone unless you export them.
 
-## Tech stack
+[See WorkCount](https://github.com/Yunykk/workcount)
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-</p>
+<details>
+<summary>A small recommendation</summary>
 
----
+In Kitto, open **Settings** and try **Tape Deck**. The name gives it away.
 
-## Contact
+</details>
 
-<p>
-  <a href="mailto:contact@yvvstudio.com">Mail</a> ·
-  <a href="https://t.me/yunnnyk">Telegram</a> ·
-  <a href="https://yvvstudio.com">YVV Studio</a>
-</p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1f6feb&height=120&section=footer" />
-
-</div>
+[Studio](https://yvvstudio.com/) · [Say hi on Telegram](https://t.me/yunnnyk)
