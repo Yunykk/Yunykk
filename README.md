@@ -1,34 +1,26 @@
 # hey, i'm Vadym.
 
-I keep turning small annoyances into apps. Right now I'm building Kitto, a player for the music files I actually keep.
+![Yunykk record sleeve. Keep it local. Music, focus, time.](docs/readme/sleeve.svg)
 
-![A copper waveform connecting three stops](docs/readme/signal.svg)
+i keep my music on disk. i wanted a player that made that feel good. that's how Kitto started.
 
-## Start here
+## [Kitto](https://github.com/Yunykk/Kitto) — play the files you kept.
 
-### Kitto
+A music player for your own collection. It picks up where you left off. It also has a Tape Deck theme because I like when software feels like an object.
 
-A local music player for Windows, Linux, and Android. Bring your own files, build a queue, and make the player look and sound the way you want.
+**[Get Kitto](https://github.com/Yunykk/Kitto/releases/latest)** · Windows, Linux, Android preview
 
-[See Kitto](https://github.com/Yunykk/Kitto) · [Download Kitto](https://github.com/Yunykk/Kitto/releases/latest)
+## Two other things I made
 
-### Nerve
+**Nerve.** A timer for the work you said you'd do. Connect a project to a goal, start a session, and watch the connection show up in World. [Open Nerve](https://yunykk.github.io/Nerve/) · [Source](https://github.com/Yunykk/Nerve)
 
-Goals, projects, and a focus timer that actually know about each other. Runs in the browser and keeps its history there.
-
-[Try Nerve](https://yunykk.github.io/Nerve/) · [Read the source](https://github.com/Yunykk/Nerve)
-
-### WorkCount
-
-An Android shift timer with a journal for paid hours and estimated earnings. Your shifts stay on your phone unless you export them.
-
-[See WorkCount](https://github.com/Yunykk/workcount)
+**WorkCount.** A shift timer for the hours you actually worked. Start, take a break, clock out. Your shift and estimated pay are there when you need them. [See WorkCount](https://github.com/Yunykk/workcount)
 
 <details>
-<summary>A small recommendation</summary>
+<summary>Why 440?</summary>
 
-In Kitto, open **Settings** and try **Tape Deck**. The name gives it away.
+It's the A4 reference Kitto uses for pitch shifting. In **Settings → Tuning**, try **432 Hz** and then go back to **Original**. The pitch moves. The tempo stays.
 
 </details>
 
-[Studio](https://yvvstudio.com/) · [Say hi on Telegram](https://t.me/yunnnyk)
+[Studio](https://yvvstudio.com/) · [Telegram](https://t.me/yunnnyk)

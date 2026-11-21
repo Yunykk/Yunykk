@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="64" viewBox="0 0 720 64">
-  <title>Three stops on a copper waveform</title>
-  <rect width="720" height="64" rx="12" fill="#191412"/>
-  <path d="M24 32H696" fill="none" stroke="#514039"/>
-  <path d="M24 32h64l10-7 10 14 10-22 10 30 10-15h85l10-5 10 10 10-16 10 22 10-11h87l12-9 12 18 12-25 12 34 12-18h70l10-4 10 8 10-14 10 20 10-10h80" fill="none" stroke="#f6ad87" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <g fill="#191412" stroke="#f6ad87" stroke-width="2">
-    <circle cx="24" cy="32" r="4"/><circle cx="360" cy="32" r="4"/><circle cx="696" cy="32" r="4"/>
-  </g>
-</svg>
