@@ -1,68 +1,26 @@
-<div align="center">
+# hey, i'm Vadym.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=900&color=111111&center=true&vCenter=true&width=900&lines=Building+products+in+public.;52+weeks.+52+public+launches.;From+coder+to+entrepreneur." alt="Typing SVG" />
+![Yunykk record sleeve. Keep it local. Music, focus, time.](docs/readme/sleeve.svg)
 
-<br />
+i keep my music on disk. i wanted a player that made that feel good. that's how Kitto started.
 
-<p>
-  <a href="https://x.com/yyunyk">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://yvvstudio.com">
-    <img src="https://img.shields.io/badge/YVV_Studio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:y.v.v.group@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## [Kitto](https://github.com/Yunykk/Kitto) — play the files you kept.
 
-</div>
+A music player for your own collection. It picks up where you left off. It also has a Tape Deck theme because I like when software feels like an object.
 
----
+**[Get Kitto](https://github.com/Yunykk/Kitto/releases/latest)** · Windows, Linux, Android preview
 
-## I’m Vadym
+## Two other things I made
 
-I build small useful products, web apps, automation tools, and experiments around productivity, outreach, focus, and decision-making.
+**Nerve.** A timer for the work you said you'd do. Connect a project to a goal, start a session, and watch the connection show up in World. [Open Nerve](https://yunykk.github.io/Nerve/) · [Source](https://github.com/Yunykk/Nerve)
 
----
+**WorkCount.** A shift timer for the hours you actually worked. Start, take a break, clock out. Your shift and estimated pay are there when you need them. [See WorkCount](https://github.com/Yunykk/workcount)
 
-## What I build
+<details>
+<summary>Why 440?</summary>
 
-- SaaS products
-- Web apps
-- UI/UX concepts
-- Automation tools
-- Micro-products
-- Public experiments
-- Tools I actually use myself
+It's the A4 reference Kitto uses for pitch shifting. In **Settings → Tuning**, try **432 Hz** and then go back to **Original**. The pitch moves. The tempo stays.
 
----
+</details>
 
-## Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-</p>
-
----
-
-## Contact
-
-<p>
-  <a href="mailto:contact@yvvstudio.com">Mail</a> ·
-  <a href="https://t.me/yunnnyk">Telegram</a> ·
-  <a href="https://yvvstudio.com">YVV Studio</a>
-</p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1f6feb&height=120&section=footer" />
-
-</div>
+[Studio](https://yvvstudio.com/) · [Telegram](https://t.me/yunnnyk)
